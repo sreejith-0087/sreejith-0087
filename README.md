@@ -6,10 +6,10 @@ I'm Sreejith, a passionate web developer with over 2 year of experience in build
 
 🚀 Let's collaborate and create something amazing together!
 
-🔧 **Tech Stack:** Python, Django, Flask, MySQL, SQLite, MongoDB, RestApi
+🔧 **Tech Stack:** Python, Django, Flask, MySQL, SQLite, RestApi
 
-🌱 **Currently Learning:** PostgreSQL
+🌱 **Currently Learning:** React
 
-📫 **Reach me at:** sreejith.s.8700@gmail.com
+📫 **Reach me at:** sreejith.s.official9@gmail.com
 
 Happy coding! 💻
